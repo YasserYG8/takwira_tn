@@ -1,0 +1,68 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1100px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "DM Sans";
+  font-weight: 600;
+  margin: 115px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 354px;
+  --thumb-color: #478ac9;
+  --thumb-hover-color: #77aad9;
+  --track-color: #c0c0c0;
+  --track-active-color: #478ac9;
+  width: 597px;
+  margin: 88px auto 60px;
+}
+
+.u-section-1 .u-form-group-1 {
+  --progress: 0%;
+}
+
+.u-section-1 .u-form-group-2 {
+  --progress: 0%;
+  margin-top: 12px !important;
+}
+
+.u-section-1 .u-label-2 {
+  --progress: 0%;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    width: 919px;
+  }
+
+  .u-section-1 .u-form-group-3 {
+    --progress: 0%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}

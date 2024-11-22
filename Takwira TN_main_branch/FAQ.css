@@ -1,0 +1,250 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1198px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  background-image: none;
+  text-transform: none;
+  margin: 111px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-style: italic;
+  width: 864px;
+  font-family: "DM Sans";
+  margin: 37px auto 0;
+}
+
+.u-section-1 .u-accordion-1 {
+  margin-bottom: 60px;
+  margin-top: 30px;
+}
+
+.u-section-1 .u-accordion-link-1 {
+  background-image: none;
+  font-size: 1.125rem;
+  font-weight: 700;
+  font-family: "DM Sans";
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 25px;
+  width: 25px;
+  background-image: none;
+}
+
+.u-section-1 .u-accordion-pane-1 {
+  min-height: 150px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px 30px;
+}
+
+.u-section-1 .u-accordion-link-2 {
+  background-image: none;
+  font-size: 1.125rem;
+  font-weight: 700;
+  font-family: "DM Sans";
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 25px;
+  width: 25px;
+  background-image: none;
+}
+
+.u-section-1 .u-accordion-pane-2 {
+  min-height: 150px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 20px 30px;
+}
+
+.u-section-1 .u-accordion-link-3 {
+  background-image: none;
+  font-size: 1.125rem;
+  font-weight: 700;
+  font-family: "DM Sans";
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 25px;
+  width: 25px;
+  background-image: none;
+}
+
+.u-section-1 .u-accordion-pane-3 {
+  min-height: 150px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 20px 30px;
+}
+
+.u-section-1 .u-accordion-link-4 {
+  background-image: none;
+  font-size: 1.125rem;
+  font-weight: 700;
+  font-family: "DM Sans";
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 25px;
+  width: 25px;
+  background-image: none;
+}
+
+.u-section-1 .u-accordion-pane-4 {
+  min-height: 150px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 20px;
+}
+
+.u-section-1 .u-accordion-link-5 {
+  background-image: none;
+  font-size: 1.125rem;
+  font-weight: 700;
+  font-family: "DM Sans";
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 25px;
+  width: 25px;
+  background-image: none;
+}
+
+.u-section-1 .u-accordion-pane-5 {
+  min-height: 150px;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 20px;
+}
+
+.u-section-1 .u-accordion-link-6 {
+  background-image: none;
+  font-size: 1.125rem;
+  font-weight: 700;
+  font-family: "DM Sans";
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-icon-6 {
+  height: 25px;
+  width: 25px;
+  background-image: none;
+}
+
+.u-section-1 .u-accordion-pane-6 {
+  min-height: 150px;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 20px;
+}
+
+.u-section-1 .u-accordion-link-7 {
+  background-image: none;
+  font-size: 1.125rem;
+  font-weight: 700;
+  font-family: "DM Sans";
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-icon-7 {
+  height: 25px;
+  width: 25px;
+  background-image: none;
+}
+
+.u-section-1 .u-accordion-pane-7 {
+  min-height: 150px;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 20px;
+}
+
+.u-section-1 .u-accordion-link-8 {
+  background-image: none;
+  font-size: 1.125rem;
+  font-weight: 700;
+  font-family: "DM Sans";
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-icon-8 {
+  height: 25px;
+  width: 25px;
+  background-image: none;
+}
+
+.u-section-1 .u-accordion-pane-8 {
+  min-height: 150px;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 20px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
